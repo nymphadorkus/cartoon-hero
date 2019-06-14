@@ -1,0 +1,18 @@
+header{
+	background-color: #9cb3d8
+	padding:40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+}
+/*<header>
+		<img src="https://i.gifer.com/embedded/download/XaYN.gif">
+		<h1>Spongebob Squarepants</h1>
+	</header>*/
